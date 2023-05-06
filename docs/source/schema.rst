@@ -6,7 +6,7 @@ Overview
 
 .. _schema-temp:
 
-.. figure:: images/schema-temp.png
+.. figure:: images/Generalized_SA_Model.png
 
 
   Current Draft Of Sequence Annotation Schema
